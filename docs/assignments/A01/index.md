@@ -20,6 +20,18 @@ Product analysis
 
 Bag Clip
 
+<img width="2016" height="1134" alt="IMG_5481" src="https://github.com/user-attachments/assets/04e6afe8-e791-44e6-ab8c-10dada8923ac" />
+
+
+The primary function is to act as a fastener that creates a mechanical seal. It does this by absorbing mechanical energy when opened as elastic potential energy that it uses to continuously apply a clamping force to keep it from releasing. 
+The equation that best models the behavior is Hooke’s Law.
+τ =k*θ 
+
+τ torque produced by the spring, k torsional spring constant, θ angle of rotation from the spring’s resting position
+
+
+
+
 ## Decide
 
 
