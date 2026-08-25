@@ -63,3 +63,8 @@ I edited the assignment names. The assignment names were A01-A11, I added the co
 I will commit to improve my ability to provide clear explanations for my decisions, strengthen my documentation skills, and maintain a professional tone in my work.
 
 ## Communicate
+
+To defend an engineering decision is to put yourself on the line for it. It means that you have done the necessary research and documented your decision-making. You concluded that the decision you made was the superior option and carefully weighed the other options properly. You must be able to present the problem at hand, the constraints, the assumptions, the tradeoffs, and the risks.
+
+I believe that currently I do not know how to defend an engineering decision correctly. 
+
