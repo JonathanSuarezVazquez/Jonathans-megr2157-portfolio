@@ -58,7 +58,8 @@ The engineers for the patented bag closure clip included teeth potentially to ha
 
 The homepage of the portfolio must provide a quick summary of what the portfolio contains. It should also contain the organization methodology that is being used like the three pillars used in the template. Ideally it will contain a short table of contents to make navigating through the portfolio easier. The homepage explains that my portfolio is intended for my progress in documenting and communicating as an engineer. 
 
+I edited the assignment names. The assignment names were A01-A11, I added the correlating assignment name. This makes navigating the assignment better since they are named properly. The template not having the assignment name would make it difficult for a reader to find the project they are interested in. 
 
-
+I will commit to improve my ability to provide clear explanations for my decisions, strengthen my documentation skills, and maintain a professional tone in my work.
 
 ## Communicate
