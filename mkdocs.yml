@@ -4,7 +4,7 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 theme:
   name: material
   palette:
-    primary: green
+    primary: pink
   features:
     - navigation.instant
     - navigation.tracking
@@ -14,14 +14,14 @@ nav:
   - About Me: aboutme/index.md
   - Portfolio Overview: portfolio-overview.md
   - Assignments:
-      - A1: assignments/A01/index.md
-      - A2: assignments/A02/index.md
-      - A3: assignments/A03/index.md
-      - A4: assignments/A04/index.md
-      - A5: assignments/A05/index.md
-      - A6: assignments/A06/index.md
-      - A7: assignments/A07/index.md
-      - A8: assignments/A08/index.md
-      - A9: assignments/A09/index.md
-      - A10: assignments/A10/index.md
-      - A11: assignments/A11/index.md
+      - A1: assignments/A01-Create Portfolio/index.md
+      - A2: assignments/A02-Design with Basic Stress/index.md
+      - A3: assignments/A03-Parametric and FEA/index.md
+      - A4: assignments/A04-Moror Mount/index.md
+      - A5: assignments/A05-Bracket Design/index.md
+      - A6: assignments/A06-Bracket Drawing/index.md
+      - A7: assignments/A07-FEA on Bracket/index.md
+      - A8: assignments/A08-Gear Box Design/index.md
+      - A9: assignments/A09-PPulley System Design/index.md
+      - A10: assignments/A10-Lead Screw Design/index.md
+      - A11: assignments/A11-Motor Selection Design/index.md
