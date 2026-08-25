@@ -33,12 +33,22 @@ One assumption that makes this model valid is that the spring will never pass it
 
 <img width="340" height="154" alt="Screenshot 2026-08-24 172450" src="https://github.com/user-attachments/assets/d5f56737-9c1d-4d33-acf6-7fcb2ebb092f" />
 
-The length from the fulcrum to where the fastener tightens is approximately 1.8125 inches, this length dictates how much force the fastener will have. If the length was longer it would produce less force causing the fastener to not be secure, if the length was shorter the fastener would not open as widely making it more difficult to use
+The length from the fulcrum to where the fastener tightens is approximately 1.8125 inches, this length dictates how much force the fastener will have. If the length was longer it would produce less force causing the fastener to not be secure, if the length was shorter the fastener would not open as widely making it more difficult to use.
 
 <img width="325" height="194" alt="Screenshot 2026-08-24 174704" src="https://github.com/user-attachments/assets/9805d190-63b1-4d53-906a-820336075f59" />
 
-The jaws at the end have an interlocking set of teeth at the end, this geometry causes the fastener to create more shear resistance. The added shear resistance makes the bag take a 
+The jaws at the end have an interlocking set of teeth at the end, this geometry causes the fastener to create more shear resistance. The added shear resistance makes the air tight seal more secure. 
 
+<img width="425" height="575" alt="image" src="https://github.com/user-attachments/assets/4639b75c-5219-4602-ba2f-054cb4b75720" />
+
+This is the torsion spring that generates the spring potential energy. There is a pin that acts as the fulcrum. It also functions as the connecter between the two plastic pieces, it is also where the spring is located. 
+
+
+US5802677A- This patent for the bag closure clip by John G. Dorman, Gordon Isenga, and Russell O. Blanchard is the patent that most closely resembled the clip I chose. 
+
+A clothespin can be used as a substitute for this product. The second substitute to the chip clip would be a slide and seal stick. It creates a mechanical seal for chip bags as well. 
+
+The engineers for the patented bag closure clip included teeth potentially to have a more secure seal through the added shear resistance. They also fitted the torsion spring on the fulcrum to create uninterrupted exterior surfaces. 
 
 ## Decide
 
