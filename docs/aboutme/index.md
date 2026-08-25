@@ -1,2 +1,3 @@
 #About Me
-This is how to edit
+
+Welcome! My name is Janathan Suarez Vazquez, I am studying Mechanical Engineering at the University of North Carolina at Charlotte. I expect to graduate in the fall of 2028. I chose to pursue my degree in mechanical engineering because since I was a child my father would work on cars, he would involve me during the diagnostic phase and the repair of the cars. Working with my father to diagnose and fix cars gave me great satisfaction. This satisfaction led me to research potential careers and I decided on mechanical engineering. As an engineering student I enjoy the process of learning new topics and working on hard problems. 
