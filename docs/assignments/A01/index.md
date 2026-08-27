@@ -1,7 +1,7 @@
 # A1 – Create a portfolio
 
 ## Objective
-
+The objective of this assignment is to set up our portfolio and get comfortable documenting our work. We analyze two engineering portfolios and one product. 
 
 ## Analyze
 Part A
@@ -67,4 +67,6 @@ I will commit to improve my ability to provide clear explanations for my decisio
 To defend an engineering decision is to put yourself on the line for it. It means that you have done the necessary research and documented your decision-making. You concluded that the decision you made was the superior option and carefully weighed the other options properly. You must be able to present the problem at hand, the constraints, the assumptions, the tradeoffs, and the risks.
 
 I believe that currently I do not know how to defend an engineering decision correctly. 
+
+This assignment took me roughly 4 hours to complete. 
 
