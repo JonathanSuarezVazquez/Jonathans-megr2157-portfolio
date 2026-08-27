@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-
+The objective for this assignment is to design a truss, analyze the truss, determine pin sizes needed for the truss, and then model the truss in CAD software. 
 
 ## Analyze
 
