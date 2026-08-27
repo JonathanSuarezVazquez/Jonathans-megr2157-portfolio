@@ -5,7 +5,7 @@ The objective for this assignment is to design a truss, analyze the truss, deter
 
 ## Analyze
 
-![myimage](P.25.KN.pdf)
+![myimage](IMG_5497.jpeg)
 
 
 
