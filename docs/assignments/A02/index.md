@@ -5,6 +5,8 @@ The objective for this assignment is to design a truss, analyze the truss, deter
 
 ## Analyze
 
+![myimage](IMG_5497.jpeg)
+
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
