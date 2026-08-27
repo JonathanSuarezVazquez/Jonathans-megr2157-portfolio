@@ -7,10 +7,9 @@ The objective for this assignment is to design a truss, analyze the truss, deter
 
 ### Design
 
-![myimage](IMG_5497.jpeg)
+![myimage](truss.png)
 
-To start we were given that point A is a pin and point B is a roller. I chose the force P=25 KN, and it is given that the distance is a=0.4 m and b=0.3 m. I drew a sketch of the simple truss. 
-
+To start we were given that point A is a pin and point B is a roller. I chose the force P=25 KN, and it is given that the distance is a=0.4 m and b=0.3 m.
 
 
 ## Decide
