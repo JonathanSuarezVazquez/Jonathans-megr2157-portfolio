@@ -17,7 +17,9 @@ This is the sketch of my truss. It follows the given measurements and labels the
 
 ![myimage](trusssym.png) ![myimage](trussnum.png)
 
-Initially I found the support reactions of the truss. I then symbolically solved joint B, E, C, D, and lastly F. Once I found all of the members forces symbolically I solved the members numerically using P=25 kn. I listed all the forces on the second image. Next I will calculate the required cross-sectional area. 
+Initially I found the support reactions of the truss. I then symbolically solved joint B, E, C, D, and lastly F. Once I found all of the members forces symbolically I solved the members numerically using P=25 kn. I listed all the forces on the second image. Next I will calculate the required cross-sectional area.
+
+![myimage](weight-1.png)
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
