@@ -21,7 +21,7 @@ Initially I found the support reactions of the truss. I then symbolically solved
 
 ![myimage](weight-1.png)
 
-I listed the knowns and unknowns. I used the largest force and I found the yield strength of AISI 1020 in Solidworks which was 357.57 MPa, I found the required cross sectional area. I found the formula for rectangular hollow tube. I decided to use a wall thickness of 3 mm, an outside width of 28 mm, and an outside height of 25 mm. With these dimensions I found the mass of 8.21 Kg and weight of 80.54 N
+I listed the knowns and unknowns. I used the largest force and I found the yield strength of AISI 1020 in Solidworks which was 357.57 MPa, I found the required cross sectional area. I found the formula for rectangular hollow tube. The density of AISI 1020 in solidworks was ρ=7870 Kg/m^3. I decided to use a wall thickness of 3 mm, an outside width of 28 mm, and an outside height of 25 mm. I found the mass of 8.21 Kg and weight of 80.54 N
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
