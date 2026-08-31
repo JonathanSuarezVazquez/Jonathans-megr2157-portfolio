@@ -9,10 +9,11 @@ The objective for this assignment is to design a truss, analyze the truss, deter
 
 ![myimage](trussss.png)
 
-To start we were given that point A is a pin and point B is a roller. The distances given for a is 0.4 m and for distance b it is 0.3 m. We were told to pick a value for P, I chose 25 KN. The planar truss has to be lightweight so were told to use the A500 structural steel. 
+To start we were given that point A is a pin and point B is a roller. The distances given for a is 0.4 m and for distance b it is 0.3 m. We were told to pick a value for P, I chose 25 KN. The planar truss will be designed using AISI 1020 Steel.
 
 ![myimage](sketch.jpeg)
 
+This is the sketch of my truss. It follows the given measurements and labels the joints. It has the load P at joint C and D. My next steps will be to symbolically and numerically solve the internal forces of the truss.
 
 
 ## Decide
