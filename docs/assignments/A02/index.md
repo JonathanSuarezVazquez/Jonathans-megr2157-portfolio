@@ -34,6 +34,11 @@ The material and properties of the pin were given. I used the largest force of 2
 
 ### Solidworks model
 
+![myimage](truss.sketch.png)
+![myimage](truss.finished.png)
+![myimage](pina2.png.png)
+![myimage](truss.mass.png)
+![myimage](pin.mass.png)
 
 
 ## Decide
