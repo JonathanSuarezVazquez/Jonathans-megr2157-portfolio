@@ -24,7 +24,7 @@ Initially I found the support reactions of the truss. I then symbolically solved
 
 ![myimage](weight-1.png)
 
-I listed the knowns and unknowns. I used the largest force and I found the yield strength of AISI 1020 in Solidworks which was 357.57 MPa, I found the required cross sectional area. I found the formula for rectangular hollow tube. The density of AISI 1020 in solidworks was ρ=7870 Kg/m^3. I decided to use a wall thickness of 3 mm, an outside width of 28 mm, and an outside height of 25 mm. I found the mass of 8.21 Kg and weight of 80.54 N
+I listed the knowns and unknowns. I used the largest force and I found the yield strength of AISI 1020 in Solidworks which was 357.57 MPa, I found the required cross sectional area. I found the formula for rectangular hollow tube. The density of AISI 1020 in solidworks was ρ=7870 Kg/m^3. I decided to use a wall thickness of 3 mm, an outside width of 28 mm, and an outside height of 25 mm. I found the mass of 8.21 kg and weight of 80.54 N
 
 ### Pin Calculations
 
@@ -37,8 +37,13 @@ The material and properties of the pin were given. I used the largest force of 2
 ![myimage](truss.sketch.png)
 ![myimage](truss.finished.png)
 ![myimage](pina2.png.png)
+
+To begin I created a solid outline and extruded it from the midpoint. I then sketched triangles to eliminate the material from the truss and leave just the supports. I created pin holes for the connection pins. I modeled the pins as cylinders with a diameter of 11mm and a length of 30 mm. 
+
 ![myimage](truss.mass.png)
 ![myimage](pin.mass.png)
+
+The estimated mass of the truss was 8.21 kg and the estimated mass of one pin was 0.02195 kg. The mass according to solidworks for the truss was 17.69 kg and for the pin it was 0.02 kg. The pins were very close in mass since they are a simple shape to calculate mass. The calculations for the truss's mass modeled it as hollow with a wall thickness of 3 mm, in solidworks it is not modeled as hollow so that is why there is a discrepancy.
 
 
 ## Decide
