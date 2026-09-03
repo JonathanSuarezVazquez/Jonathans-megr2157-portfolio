@@ -55,3 +55,7 @@ I chose to add support members to the truss and not use just the initial trapezo
 I learned how to design a trust and take into account the yield strength of the materials. I also learned how to design with a safety factor in mind to prevent buckling and yield failures. 
 
 It took me approximately 10 hours to complete my work. 
+
+(pina2.sldprt)
+(trussa2.sldprt)
+
