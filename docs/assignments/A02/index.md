@@ -47,9 +47,11 @@ The estimated mass of the truss was 8.21 kg and the estimated mass of one pin wa
 
 
 ## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
 I chose to add support members to the truss and not use just the initial trapezoidal shape. It allows the members to transfer loads. I decided for member the diagonal member to go from point C to the point E to try and transfer the upward force of P more evenly among the truss. 
 
 ## Communicate
 
+I learned how to design a trust and take into account the yield strength of the materials. I also learned how to design with a safety factor in mind to prevent buckling and yield failures. 
+
+It took me approximately 10 hours to complete my work. 
