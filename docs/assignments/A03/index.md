@@ -34,6 +34,13 @@ The percent difference of the two is 2(0.00902-0.009)/(0.00902-0.009)=0.002220*1
 
 ## Decide
 
+For the 2157 students:
+I decided that I would like to make the length shorter, to do this I will keep the area the same, the young's modulus the same, and I will only change the force to 490 lbf. 
 
 ## Communicate
 
+I learned how to use the global equations., how to correctly link dimensions, and how to generate a FEA. I spent about 4 hours on this assignment.
+
+### CAD DOWNLOAD
+
+[Parametric and FEA](https://1drv.ms/u/c/3f1fcb01952d5efb/IQB_DjaTWpReR49PynzQDDCrAQtbZij6yqvelXvONw8fW-Y?e=4sut0M)
