@@ -35,7 +35,7 @@ The percent difference of the two is 2(0.00902-0.009)/(0.00902-0.009)=0.002220*1
 ## Decide
 
 For the 2157 students:
-I decided that I would like to make the length shorter, to do this I will keep the area the same, the young's modulus the same, and I will only change the force to 490 lbf. 
+I decided that I would like to make the length shorter, to do this I will keep the area the same, the young's modulus the same, and I will only change the force to 490 lbf. I think this because the equation for the length will be L=eAE/F so a bigger force will result in the length getting smaller, smaller force will make L bigger. L=(0.009)(3.14)(10.29*10^6)/490 , the new length will be 593.46 in. 
 
 ## Communicate
 
