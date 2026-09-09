@@ -21,12 +21,16 @@ I entered the values into the global equations in the equations tab. After enter
 
 ### FEA
 
-To generate the deflection and von mises map I conducted a FEA. I fixed one of the faces and set the force (f=450lb) to the opposite face pulling the bar into tension. I then changed the units of the von Mises and displacement map to IPS units (psi, in). 
+To generate the deflection and von mises map I conducted a FEA. I fixed one of the faces and set the force (f=450lb) to the opposite face pulling the bar into tension. I then changed the units of the von Mises and displacement map to IPS units (psi, in). Using the values in solidworks, yield strength: 2.800e+04 and a stress of 1.514e+02, I found my safety factor of 184.94. This seems very high. 
 
 ![myimage](a3fixed.png)
 ![myimage](a3force.png)
 ![myimage](a3ures.png)
 ![myimage](a3vonmises.png)
+
+### Design Reflection
+
+The percent difference of the two is 2(0.00902-0.009)/(0.00902-0.009)=0.002220*100=0.2220% which is very close. I expect them to agree since all the values used were the same. I think the reason the values are very similar is because of the lack of any stress concentrations, the mesh being coarse leading to it being similar to the hand-calculations. I would trust the Solidworks result over the hand-calculations. The reason being that if you need to adjust any variables it is much easier to do that on the CAD software instead of recomputing it by hand. Using my machinery's handbook I found the stress-concentration factor of 3. σ(3)= 454.2 psi which is well below the yield strength 2.800e+04.  
 
 ## Decide
 
