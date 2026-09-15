@@ -20,6 +20,10 @@ This motor mount looks similar to the one provided in appendix B but instead of 
 
 ### FEATURE 1
 
+To begin I started with feature 1. The diameter of the motor was 28 mm so I wanted a base and length that would exceed that constraint, I also wanted it to be square so I chose 35 mm for both the b and L. I listed all my knowns, E=2000 MPa, Sy=48 MPa, the moment was 5400 N*mm because the force 300 N acting 18mm away due to it being on the end of motor's shaft. I used the equation for yield strength design σ=MC/I, I being the moment of inertia, I=bh^3/12, C=h/2. I solved for the height h, h=sqrt(6(m)(sf)/sy(b)). The height due to yield strength was 7.606 mm. I then calculated the height using the deflection equation, Def=ML^2/2EI, I being  I=bh^3/12, solving for h required the equation to become h=(6ML^2/EbDEF)^1/3. This came out to 12.36 mm. The height is determined by the deflection design. 
+
+![myimage](feature1.jpg)
+
 
 ## Decide
 
