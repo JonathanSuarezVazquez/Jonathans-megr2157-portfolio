@@ -24,6 +24,9 @@ To begin I started with feature 1. The diameter of the motor was 28 mm so I want
 
 ![myimage](feature1.jpg)
 
+The knowns are the similar to those from feature 1. b=35mm, E=2000 MPa, Sy=48MPa, L=80 mm, the height of the holes are 10 mm, the new momentum calculated was M_b= h1+L2+18(300), M=12108 N*mm. Using the same equations from the previous feature, for the height due to stress was 11.389 mm and the height due to deflection was 28.08 mm. Feature 2 height is determined by the deflection. 
+
+![myimage](feature2.jpg)
 
 ## Decide
 
