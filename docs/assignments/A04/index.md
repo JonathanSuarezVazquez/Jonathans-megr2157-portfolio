@@ -67,4 +67,4 @@ This assignment took me approximately 5 hours to complete.
 
 [Motor Mount](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBJH88O09hlT4mcl6ZdERu-AQGT6mtIu8oiH4nCpRN4ECI?e=bEkdHc)
 
-[Motor Mount Drawing]((https://1drv.ms/u/c/3f1fcb01952d5efb/IQB9IKuH2HaOQa-tNdyra8H5ATF9e16-EAdxS4qnFSPGEFI?e=PKaafa))
+[Motor Mount Drawing](https://1drv.ms/u/c/3f1fcb01952d5efb/IQB9IKuH2HaOQa-tNdyra8H5ATF9e16-EAdxS4qnFSPGEFI?e=PKaafa)
