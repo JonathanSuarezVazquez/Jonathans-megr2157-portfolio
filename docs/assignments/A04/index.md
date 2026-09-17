@@ -36,7 +36,24 @@ Using all the values I created and the values for h I calculated I was able to d
 
 ![myimage](isosketch2.jpeg)
 
+### Solidworks
 
+To begin I entered all my variables into the equations tab. After entering all the data into the global equations I was able to get h1 and h2 on solidworks to match what I got on my manual calculations. 
+
+![myimage](A4GE.png)
+
+After that was finished I was able to make an outline with my dimensions using the global variables. I then extruded it with the global variable "base". 
+
+![myimage](A4Dimension.png)
+![myimage](A4extrude.png)
+
+I then added the middle hole for the motor shaft with a diameter of 6mm, I added the feature for the little bump on the motor which was an 18 mm circle and 2 mm tall. I then added 4 M3 screw holes on a circle that was 22 mm in diameter. I then added 4 more M3 screw holes on the feature 2 attached to the wall both sets of holes 10 mm from the ends of their feature.
+
+![myimage](A4Finished.png)
+
+### 2157 Students
+
+We were tasked with creating a multiview drawing in Cad. 
 
 ## Decide
 
