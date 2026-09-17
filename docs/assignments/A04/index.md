@@ -55,8 +55,15 @@ I then added the middle hole for the motor shaft with a diameter of 6mm, I added
 
 We were tasked with creating a multiview drawing in Cad. 
 
-## Decide
+![myimage](MMDRAWING.png)
+
 
 
 ## Communicate
 
+I learned how to determine the geometry using either stress or deflection. It was my first time creating a multiview drawing, I watched a couple of Youtube videos to be able to complete that section. During my paper sketch section I was able to better plan how I would begin my CAD section since it helped visualize how to model it. I did mistakenly write down the wrong P value for my feature two calculations, so that is why I had that those pen marks on feature 2. I realized this mistake when I went to document my work for feature 2. 
+
+This assignment took me approximately 5 hours to complete.
+
+[Motor Mount](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBJH88O09hlT4mcl6ZdERu-AQGT6mtIu8oiH4nCpRN4ECI?e=bEkdHc)
+[Motor Mount Drawing](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBJH88O09hlT4mcl6ZdERu-AQGT6mtIu8oiH4nCpRN4ECI?e=bEkdHc)
