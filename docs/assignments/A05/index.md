@@ -30,8 +30,19 @@ I used a lot of similar values and assumptions for the stiffness analysis. We we
 
 ### Multiview sketches
 
+Stress Analysis Multiview
+
+![myimage](A5Stressdrawing.jpeg)
+
+Stiffness Analysis Multiview
+
+![myimage](A5Defdrawing.png)
+
 ## Decide
 
 
 ## Communicate
+
+The diameter of part A is governed by stress. The minimum diameter because of stress was 0.544 in vs the diameter due to deflection which was 0.205 in. Choosing the stress diameter ensures the metal doesn't fail due to yield and it is plenty thick enough to where it won't deflect more than the 0.005 in. For part B I chose the wrong width originally, I should have made it the same width as the diameter of part A. I caught this mistake when I was doing the stiffness analysis and realized I could change my width to match part A, I went back and fixed it for the stress analysis. If the assumption that it does not fail due to direct shear stress was incorrect than some of the dimensions may have to be changed since that introduces a new mode of failure that we would need to account for. 
+
 
