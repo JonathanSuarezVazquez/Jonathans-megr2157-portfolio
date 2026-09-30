@@ -35,3 +35,8 @@ I added a centerline to the front view to show that the dimensions even though m
 
 ## Communicate
 
+
+
+[Bracket](https://1drv.ms/u/c/3f1fcb01952d5efb/IQDTLF5dsNoiQp5yY80qsCDBAZEyf0kPrC31BWFqRWMAcGw?e=ZTXF5W)
+
+[Bracket Drawing](https://1drv.ms/u/c/3f1fcb01952d5efb/IQDVFP5OKk5WRIcrjWj71wQxAS6veWN3H78QkM0B_AGawTY?e=Bjf549)
