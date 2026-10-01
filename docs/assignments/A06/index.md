@@ -23,7 +23,7 @@ To begin I analyzed both of my sketches to decide what dimensions from either an
 
 I opened solidworks and entered my values in the global equations. I also chose the material ASTM A36 so I selected that material in solidworks. 
 
-![myimage](A6Ge.png)
+![myimage](A6GE.png)
 
 I made a sketch of the bracket to begin and entered the values from the equations table. 
 
