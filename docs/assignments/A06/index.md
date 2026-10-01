@@ -40,16 +40,33 @@ I then chose the option in files "Make drawing from part".
 
 ![myimage](A6.png)
 
-I added a centerline to the front view to show that the dimensions even though may only be on one side they apply to both sides. I also added the tolerances from the rigid t-beam so that it will fit smoothly.
+I added a centerline to the front view to show that the dimensions even though may only be on one side they apply to both sides. I also added the tolerances from the rigid t-beam and the fit from the link so that it will fit smoothly.
 
+### Link
 
-## Decide
+To begin I also entered the values from my link into the solidworks global equations. 
 
+![myimage](link.jpeg)
+![myimage}(A6linkge.png)
+
+After I sketched the link and extruded it. 
+
+![myimage](A6linksketch.png)
+
+I then created a drawing and added the dimensions. I also added the tolerances from the sliding fit and the light pressure fit. 
+
+![myimage](linkdrawing.png)
 
 ## Communicate
 
+I chose the stress driven radius for part A. I used the equation r=4Z/pi and I calculated Z=SF*2F*L/8Ys. I was able to enter this into solidworks. I did not change any values so I got the same value as my calculations from the last assignment. I added tighter tolerances for part A because it has a sliding fit driven dimensions due to the link I was tasked with designing. I also added the tolerances from the rigid T beam so that it will fit correctly. 
 
+This assignment took me 3 hours.
 
 [Bracket](https://1drv.ms/u/c/3f1fcb01952d5efb/IQDTLF5dsNoiQp5yY80qsCDBAZEyf0kPrC31BWFqRWMAcGw?e=ZTXF5W)
 
 [Bracket Drawing](https://1drv.ms/u/c/3f1fcb01952d5efb/IQDVFP5OKk5WRIcrjWj71wQxAS6veWN3H78QkM0B_AGawTY?e=Bjf549)
+
+[link](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBVRse-T3-9R7sGSsghsh4EAefOseN2hoOvw_J5drr8nB0?e=wQOesq_)
+
+[link drawing](https://1drv.ms/u/c/3f1fcb01952d5efb/IQCZ_fG_Lvf9S6lcXprRHoxFAWqNTj5QoK4A-Ih0ASVyQs8?e=cUyHgs)
