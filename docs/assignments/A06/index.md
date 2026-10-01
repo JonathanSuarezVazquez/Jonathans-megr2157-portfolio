@@ -47,7 +47,7 @@ I added a centerline to the front view to show that the dimensions even though m
 To begin I also entered the values from my link into the solidworks global equations. 
 
 ![myimage](link.jpeg)
-![myimage}(A6linkge.png)
+![myimage](A6linkge.png)
 
 After I sketched the link and extruded it. 
 
