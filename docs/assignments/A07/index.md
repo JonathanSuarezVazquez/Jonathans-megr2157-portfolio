@@ -14,12 +14,17 @@ To begin I opened solidworks and opened my bracket, I then hit simulation and cr
 | --- | --- | --- | ---|
 | Max Stress (N/m^2 ) | 5.162e+06 | 5.811e+06 | 7.952+06 |
 | Location | ![myimage](A8.1coarsevon.png) | ![myimage](A8.1defaultvon.png) | ![myimage](A8.1finevon.png) |
+| Difference % |  | 12.57 | 36.84 |
 | Max Deflection (mm) | 2.419e-03  | 2.007e-03 | 2.013e-03 |
 | Location | ![myimage](A8.1coarsedef.png) | ![myimage](A8.1defaultdef.png) | ![myimage](A8.1findef.png) |
+| Difference % | | 17.03 | 0.299 |
 | Min SF | 48 | 43 | 31 |
 | Location | ![myimage](A8.1coarsesf.png) | ![myimage](A8.1defaultsf.png) | ![myimage](A8.1finesf.png) |
+| Difference % | | 10.42 | 27.91 |
 | Mass | 0.671 lb | 0.671 lb | 0.671 lb |
 | Number of elements | 1608 | 9364 | 63262 |
+
+The component's results do not converge, I will use the finest mesh simulation's result to proceed with this assignment.
 
 ## Decide
 
