@@ -50,6 +50,28 @@ I added fillets to the non essential edges.
 
 The results from the default mesh and fine mesh converged at all three analysis points at less than 7% difference. I will proceed with the fine mesh results.
 
+### Third Iteration
+
+I shelled the big middle section to reduce weight. 
+
+![myimage](A8.3.png)
+
+| Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
+| --- | --- | --- | ---|
+| Max Stress (N/m^2 ) | 8.136e+06 | 8.360e+06 | 7.608e+06 |
+| Location | ![myimage](A8.3coarsevon.png) | ![myimage](A8.3defaultvon.png) | ![myimage](A8.3finevon.png) |
+| Difference % |  | 2.75 | 8.99 |
+| Max Deflection (mm) | 2.059e-03  | 2.061e-03 | 2.084e-03 |
+| Location | ![myimage](A8.3coarsedef.png) | ![myimage](A8.3defaultdef.png) | ![myimage](A8.3finedef.png) |
+| Difference % | | 0.09 | 1.12 |
+| Min SF | 31 | 30 | 33 |
+| Location | ![myimage](A8.3coarsesf.png) | ![myimage](A8.3defaultsf.png) | ![myimage](A8.3finesf.png) |
+| Difference % | | 3.22 | 10 |
+| Mass | 0.386 lb | 0.386 lb | 0.386 lb |
+| Number of elements | 6800 | 12829 | 68854 |
+
+The results do not converge within 7% for mesh 2 and mesh 3. 
+
 ## Decide
 
 
