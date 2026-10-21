@@ -48,6 +48,7 @@ I added fillets to the non essential edges.
 | Mass | 0.659 lb | 0.659 lb | 0.659 lb |
 | Number of elements | 6678 | 13602 | 63529 |
 
+The results from the default mesh and fine mesh converged at all three analysis points at less than 7% difference. I will proceed with the fine mesh results.
 
 ## Decide
 
