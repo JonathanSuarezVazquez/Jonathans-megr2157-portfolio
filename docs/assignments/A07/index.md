@@ -6,6 +6,7 @@ The objective for this assignment is to optimize the design of our bracket and l
 
 ## Analyze
 
+## Bracket
 ### First Iteration
 
 To begin I opened solidworks and opened my bracket, I then hit simulation and created a new study. I added the fixed points on the bracket as well as the force that was applied. 
@@ -71,6 +72,35 @@ I shelled the big middle section to reduce weight.
 | Number of elements | 6800 | 12829 | 68854 |
 
 The results do not converge within 7% for mesh 2 and mesh 3. 
+
+## Link
+
+TO begin I started a new study on the link design from the previous assignment. I added the force and fixed geometry.
+
+![myimage](A8Linkstudy.png)
+
+| Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
+| --- | --- | --- | ---|
+| Max Stress (N/m^2 ) | 1.552e+08 | 1.560e+08 | 1.573e+08 |
+| Location | ![myimage](A8.Link1coarsevon.png) | ![myimage](A8.Link1defaultvon.png) | ![myimage](A8.Link1finevon.png) |
+| Difference % |  | 0.52 | 0.83 |
+| Max Deflection (mm) | 1.218e-02  | 1.223e-02 | 1.223e-02 |
+| Location | ![myimage](A8.Link1coarsedef.png) | ![myimage](A8.Link1defaultdef.png) | ![myimage](A8.Link1finedef.png) |
+| Difference % | | 0.41 | 0 |
+| Min SF | 1.6 | 1.6 | 1.6 |
+| Location | ![myimage](A8.Link1coarsesf.png) | ![myimage](A8.Link1defaultsf.png) | ![myimage](A8.Link1finesf.png) |
+| Difference % | | 0 | 0 |
+| Mass | 0.041 lb | 0.041 lb | 0.041 lb |
+| Number of elements | 2216 | 8717 | 39150 |
+
+The initial iteration converges within 7%. 
+
+
+
+
+### First iteration
+
+
 
 ## Decide
 
