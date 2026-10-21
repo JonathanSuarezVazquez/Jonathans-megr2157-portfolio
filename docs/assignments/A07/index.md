@@ -34,7 +34,7 @@ I added fillets to the non essential edges.
 
 ![myimage](A8.2.png)
 
-| Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
+| Design 2 | Coarse Mesh | Default Mesh | Fine Mesh |
 | --- | --- | --- | ---|
 | Max Stress (N/m^2 ) | 3.647e+06 | 3.601e+06 | 3.532e+06 |
 | Location | ![myimage](A8.2coarsevon.png) | ![myimage](A8.2defaultvon.png) | ![myimage](A8.2finevon.png) |
@@ -56,7 +56,7 @@ I shelled the big middle section to reduce weight.
 
 ![myimage](A8.3.png)
 
-| Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
+| Design 3 | Coarse Mesh | Default Mesh | Fine Mesh |
 | --- | --- | --- | ---|
 | Max Stress (N/m^2 ) | 8.136e+06 | 8.360e+06 | 7.608e+06 |
 | Location | ![myimage](A8.3coarsevon.png) | ![myimage](A8.3defaultvon.png) | ![myimage](A8.3finevon.png) |
