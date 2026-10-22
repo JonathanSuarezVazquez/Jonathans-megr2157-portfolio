@@ -101,8 +101,9 @@ The initial iteration converges within 7%.
 
 For the second iteration of the link I increased the width from 0.027 in to 0.100 in to try and increase the safety factor. 
 
+![myimage](link2.png)
 
-| Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
+| Design 2 | Coarse Mesh | Default Mesh | Fine Mesh |
 | --- | --- | --- | ---|
 | Max Stress (N/m^2 ) | 9.693e+07 | 9.887e+08 | 9.925e+08 |
 | Location | ![myimage](link1coarsevon.png) | ![myimage](link1defaultvon.png) | ![myimage](link1finevon.png) |
@@ -134,4 +135,17 @@ The results converged at below the 7% threshold.
 
 
 ## Communicate
+
+I learned how different mesh sizes changes the approximation of the results. It is tempting to use fine mesh for every task but for more complicated analysis fine meshes may not be practical so we looked for convergence to ensure we did not waste time. We used these analysis to make changes so that our designs could be more lightweight, stronger, stiffer, or safer. 
+
+
+
+
+
+
+[Bracket](https://1drv.ms/u/c/3f1fcb01952d5efb/IQDTLF5dsNoiQp5yY80qsCDBAZEyf0kPrC31BWFqRWMAcGw?e=ZTXF5W)
+[Bracket iteration#2](https://1drv.ms/u/c/3f1fcb01952d5efb/IQCGAhwBe6vcRp2EaUN6DWzoAZqBvPczPCr53evi06tKqIU?e=uJ7ubZ)
+[Bracket iteration#3](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBfnkKdG5T1QJr8fm9awKfoAR4mhdKra7AwX__XBSCPybo?e=sNiCMh)
+[link](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBVRse-T3-9R7sGSsghsh4EAefOseN2hoOvw_J5drr8nB0?e=wQOesq_)
+[link iteration#2](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBgsadDA5epTLZXJiYx1t3tAV4yUrGacBX70sC192u0DDA?e=MAL0Af)
 
