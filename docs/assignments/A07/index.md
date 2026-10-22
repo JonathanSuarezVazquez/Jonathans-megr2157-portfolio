@@ -95,7 +95,8 @@ TO begin I started a new study on the link design from the previous assignment. 
 | Mass | 0.041 lb | 0.041 lb | 0.041 lb |
 | Number of elements | 2216 | 8717 | 39150 |
 
-The initial iteration converges within 7%. 
+The results converged at below the 7% threshold, the fine mesh results were not needed but done for fun. 
+
 
 ### Second iteration
 
@@ -117,7 +118,7 @@ For the second iteration of the link I increased the width from 0.027 in to 0.10
 | Mass | 0.149 lb | 0.149 lb | 0.149 lb |
 | Number of elements | 1502 | 11562 | 72357 |
 
-The results converged at below the 7% threshold. 
+The results converged at below the 7% threshold, the fine mesh results were not needed but done for fun. 
 
 
 
@@ -142,10 +143,15 @@ I learned how different mesh sizes changes the approximation of the results. It 
 
 
 
+### solidworks download
 
 [Bracket](https://1drv.ms/u/c/3f1fcb01952d5efb/IQDTLF5dsNoiQp5yY80qsCDBAZEyf0kPrC31BWFqRWMAcGw?e=ZTXF5W)
+
 [Bracket iteration#2](https://1drv.ms/u/c/3f1fcb01952d5efb/IQCGAhwBe6vcRp2EaUN6DWzoAZqBvPczPCr53evi06tKqIU?e=uJ7ubZ)
+
 [Bracket iteration#3](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBfnkKdG5T1QJr8fm9awKfoAR4mhdKra7AwX__XBSCPybo?e=sNiCMh)
+
 [link](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBVRse-T3-9R7sGSsghsh4EAefOseN2hoOvw_J5drr8nB0?e=wQOesq_)
+
 [link iteration#2](https://1drv.ms/u/c/3f1fcb01952d5efb/IQBgsadDA5epTLZXJiYx1t3tAV4yUrGacBX70sC192u0DDA?e=MAL0Af)
 
