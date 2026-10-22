@@ -99,6 +99,28 @@ The initial iteration converges within 7%.
 
 ### Second iteration
 
+For the second iteration of the link I increased the width from 0.027 in to 0.100 in to try and increase the safety factor. 
+
+
+| Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
+| --- | --- | --- | ---|
+| Max Stress (N/m^2 ) | 9.693e+07 | 9.887e+08 | 9.925e+08 |
+| Location | ![myimage](link1coarsevon.png) | ![myimage](link1defaultvon.png) | ![myimage](link1finevon.png) |
+| Difference % |  | 2.00 | 0.38 |
+| Max Deflection (mm) | 1.124e-02  | 1.126e-02 | 1.126e-02 |
+| Location | ![myimage](link1coarsedef.png) | ![myimage](link1defaultdef.png) | ![myimage](link1finedef.png) |
+| Difference % | | 0.18 | 0 |
+| Min SF | 2.6 | 2.5 | 2.5 |
+| Location | ![myimage](link1coarsesf.png) | ![myimage](link1defaultsf.png) | ![myimage](link1finesf.png) |
+| Difference % | | 0 | 0 |
+| Mass | 0.149 lb | 0.149 lb | 0.149 lb |
+| Number of elements | 1502 | 11562 | 72357 |
+
+The results converged at below the 7% threshold. 
+
+
+
+
 
 
 
