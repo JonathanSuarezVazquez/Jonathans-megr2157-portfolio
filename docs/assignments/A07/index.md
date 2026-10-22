@@ -75,30 +75,36 @@ The results do not converge within 7% for mesh 2 and mesh 3.
 
 ## Link
 
+### First iteration
+
 TO begin I started a new study on the link design from the previous assignment. I added the force and fixed geometry.
 
 ![myimage](A8Linkstudy.png)
 
 | Design 1 | Coarse Mesh | Default Mesh | Fine Mesh |
 | --- | --- | --- | ---|
-| Max Stress (N/m^2 ) | 1.552e+08 | 1.560e+08 | 1.573e+08 |
-| Location | ![myimage](A8.Link1coarsevon.png) | ![myimage](A8.Link1defaultvon.png) | ![myimage](A8.Link1finevon.png) |
-| Difference % |  | 0.52 | 0.83 |
-| Max Deflection (mm) | 1.218e-02  | 1.223e-02 | 1.223e-02 |
-| Location | ![myimage](A8.Link1coarsedef.png) | ![myimage](A8.Link1defaultdef.png) | ![myimage](A8.Link1finedef.png) |
-| Difference % | | 0.41 | 0 |
-| Min SF | 1.6 | 1.6 | 1.6 |
-| Location | ![myimage](A8.Link1coarsesf.png) | ![myimage](A8.Link1defaultsf.png) | ![myimage](A8.Link1finesf.png) |
+| Max Stress (N/m^2 ) | 3.572e+08 | 3.620e+08 | 3.639e+08 |
+| Location | ![myimage](link1coarsevon.png) | ![myimage](link1defaultvon.png) | ![myimage](link1finevon.png) |
+| Difference % |  | 1.34 | 0.52 |
+| Max Deflection (mm) | 4.125e-02  | 4.130e-02 | 4.130e-02 |
+| Location | ![myimage](link1coarsedef.png) | ![myimage](link1defaultdef.png) | ![myimage](link1finedef.png) |
+| Difference % | | 0.12 | 0 |
+| Min SF | 0.69 | 0.69 | 0.69 |
+| Location | ![myimage](link1coarsesf.png) | ![myimage](link1defaultsf.png) | ![myimage](link1finesf.png) |
 | Difference % | | 0 | 0 |
 | Mass | 0.041 lb | 0.041 lb | 0.041 lb |
 | Number of elements | 2216 | 8717 | 39150 |
 
 The initial iteration converges within 7%. 
 
+### Second iteration
 
 
 
-### First iteration
+
+
+
+
 
 
 
