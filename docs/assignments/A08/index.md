@@ -12,6 +12,7 @@ Assumptions-Assume appropriate strength of shafts, use Machinery’s Handbook. T
 
 Note- The shafts are press fit through the hubs of the gears. Make sure there is enough clearance between the gears and the gearbox. Use a running sliding fit for the size of the hole for the shafts.
 
+For my shaft calculations I used the machinery's handbook to find the allowable stresses generally used in practice which are 4000 pounds per square inch for main power-transmitting shafts; and 8500 pounds per square inch for small, short shafts. 
 
 ## Decide
 
