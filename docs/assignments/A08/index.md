@@ -26,9 +26,12 @@ The diameter of the output shaft is also sufficient. Now we will design and choo
 
 To choose a journal bearing we have to find the allowable PV so we can properly select a thickness and material. 
 
-![myimage](journalbearing.jpeg)
+![myimage](Journalbearing.jpeg)
 
 I will now use these values to select the journal bearings. For the input bearing I have chosen [6391K613](https://www.mcmaster.com/6391K613/) and for the output bearing I chose [7639N11](https://www.mcmaster.com/7639N11/) since they meet the requirements I calculated. 
+
+![myimage](inputbearing.png)
+![myimage](outputbearing.png)
 
 ## Decide
 
