@@ -52,8 +52,17 @@ I then assembled all the pieces together with some mates and a gear mate for the
 
 ![myimage](assembledgears.png)
 
-## Decide
+### MEGR 2157
+
+![myimage](oshaftdrawing.png)
+![myimage](ishaftdrawing.png)
+![myimage](housingdrawing.png)
+![myimage](housing2drawing.png)
 
 
 ## Communicate
+
+I learned how to design a gearbox assembly. I learned how to choose a journal bearing. I was also able to brush up on my CAD skills with creating the assembly since I did not do that previously. I also learned how gear mates work on solidworks. 
+
+[A8 folder](https://1drv.ms/f/c/3f1fcb01952d5efb/IgD2A3B4Dn6hSaT6t6ecnq7GAVkBskN5rApBA1q_oGkgQMg?e=sNVvGY)
 
