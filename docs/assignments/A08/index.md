@@ -12,6 +12,8 @@ Assumptions-Assume appropriate strength of shafts, use Machinery’s Handbook. T
 
 Note- The shafts are press fit through the hubs of the gears. Make sure there is enough clearance between the gears and the gearbox. Use a running sliding fit for the size of the hole for the shafts.
 
+### Shafts
+
 For my shaft calculations I used the machinery's handbook to find the allowable stresses generally used in practice which are 4000 pounds per square inch for main power-transmitting shafts; and 8500 pounds per square inch for small, short shafts. 
 
 I began with the shafts. I was tasked to check if the diameter was sufficient. The input shaft was first since it was first in the assignment instructions.
@@ -24,6 +26,8 @@ The diameter was sufficient, no new recommended diameter. I will now check the o
 
 The diameter of the output shaft is also sufficient. Now we will design and choose a journal bearing. 
 
+### Journal Bearing
+
 To choose a journal bearing we have to find the allowable PV so we can properly select a thickness and material. 
 
 ![myimage](Journalbearing.jpeg)
@@ -32,6 +36,21 @@ I will now use these values to select the journal bearings. For the input bearin
 
 ![myimage](inputbearing.png)
 ![myimage](outputbearing.png)
+
+### Housing
+
+I made a sketch of what the finished assembly would be like. 
+
+![myimage](sketchassembly.jpeg)
+
+I now need to create the housing in two pieces. The housing will be mated with screws I found on McMaster-Carr [92949A157](https://www.mcmaster.com/92949A157/) with the [locknut](https://www.mcmaster.com/94407A101/). The housing material will be 1060 alloy and ABS pc. 
+
+![myimage](housing.png)
+![myimage](housing2.png)
+
+I then assembled all the pieces together with some mates and a gear mate for the gears and voilà. I did not add the screws and locknuts because I got lazy. 
+
+![myimage](assembledgears.png)
 
 ## Decide
 
