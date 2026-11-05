@@ -16,6 +16,11 @@ Next, I found the minimum diameter for the shaft. I looked up the yield strength
 
 ![myimage](a9shaft.jpeg)
 
+I then found the bearing material. I chose Graphite (dry) since it was within the values I calculated.
+
+![myimage](bearinga9.jpeg)
+
+![myimage](tablehandbook.jpeg)
 
 
 ## Decide
