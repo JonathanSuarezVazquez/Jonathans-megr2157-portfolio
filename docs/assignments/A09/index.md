@@ -28,3 +28,4 @@ I then found the bearing material. I chose Graphite (dry) since it was within th
 
 ## Communicate
 
+I learned how some forces work in a pulley system with parallel axes. 
