@@ -12,6 +12,12 @@ To begin we have to calculate the belt dimensions to choose a belt that fits. We
 
 I found the coefficient of friction to be 0.65 for polyurethane rubber on ABS. I was going to originally choose a 5/16 in diameter but when looking on McMaster-Carr there was no option for a 5/16 in diameter and a circumference of 21.42 in. Realizing this I decided to choose a belt with a 21 1/2 in circumference and a slightly larger diameter of 3/8. [3044K608.](https://www.mcmaster.com/3044K608-1835T915/) 
 
+Next, I found the minimum diameter for the shaft. I looked up the yield strength for 1060 hardened steel and got the value of 70,300 psi. The minimum diameter was 0.143 in. 
+
+![myimage](a9shaft.jpeg)
+
+
+
 ## Decide
 
 
