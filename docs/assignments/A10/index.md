@@ -35,10 +35,11 @@ I calculated the stress in the nut(https://www.mcmaster.com/95120A592/) that was
 
 ![My Image](crossheaddesign1.png)
 
+Since we had freedom to design our crosshead, I gave reasonable length and height to the design and found width by the flange nut dimension. Then, I found the bending stress and modulus of elasticity to determine which material would be appropriate for these dimensions.
+
 ![My Image](crossheaddesign2.png)
 
 After multiplying the calculated modulus of elasticity and bending stress for the crosshead it was decided that the material for the crosshead would be 6061-T6 Aluminum. Both the yield strength and the modulus of elasticity of the material is several times higher to what was calculated for the crosshead.
-
 
 ### Tabulating Costs- Jeffrey 
 
