@@ -63,3 +63,5 @@ Jonathan- I learned how to model equations to choose a leadscrew. Working as a g
 
 Landyn - I continued to learn the intricacies of solidworks and how helpful certain processes are. Having to consider my teammates did force me to keep in mind my timeframe and scheduling. My section took around 8 hours.
 
+Jeffrey- With my section I learned how to design a crosshead for a tensile tester and learned about the components that are needed for a tensile tester. I did this section quickly, so the CAD didn't have to be a last-minute duty. My section took me approximately 4 hours.
+
