@@ -9,7 +9,7 @@ The objective for this assignment was to design a tensile tester. We will design
 
 #### Minimum diameter due to axial stress-
 
-To begin I calculated the minimum diameter of the screw. I used the yield stress value of 861.845 mPa for ASTM A193, a safety factor of 4, and an axial load of 1kN. The calculated value was 0.065 in, while viewing 18" lead screws on McMaster-Carr there was no ASTM A193 leadscrews. I decided to go with 93410A111(https://www.mcmaster.com/93410A111/)
+To begin I calculated the minimum diameter of the screw. I used the yield stress value of 861.845 mPa for ASTM A193, a safety factor of 4, and an axial load of 1kN. The calculated value was 0.065 in, while viewing 18" lead screws on McMaster-Carr there was no ASTM A193 leadscrews. I decided to go with [93410A111](https://www.mcmaster.com/93410A111/)
 
 ![myimage](A10.screwdiameter.jpeg)
 
@@ -31,7 +31,7 @@ I calculated the stress in the nut(https://www.mcmaster.com/95120A592/) that was
 
 ![myimage](A10.nut.jpeg)
 
-## Crosshead Design
+## Crosshead Design- Jeffrey
 
 ![My Image](crossheaddesign1.png)
 
