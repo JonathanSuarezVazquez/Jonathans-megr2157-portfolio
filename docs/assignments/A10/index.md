@@ -8,7 +8,7 @@
 
 | Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
 |  :--- | :--- | :--- | :---| :--- | :---|
-| 1 |  |  | | | | 
+| 1 | 2 | 18-8 Stainless Steel Acme Lead Screw, Right Hand, 3/8"-12 Thread Size, 3 Feet Long | $64.53 | $129.06 | [Product](https://www.mcmaster.com/95061A813/)| 
 | 2 | | | | | |
 | 3 | |  | |  |  |
 | 4 | |  | |  |  |
