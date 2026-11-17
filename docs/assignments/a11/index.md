@@ -2,8 +2,13 @@
 
 ## Objective
 
+Develop the motorized drive and structural integration for the 2 kN tensile tester, focusing on motor selection, mounting, frame stability, and clamp design. This phase will ensure that the crosshead moves smoothly under controlled torque and speed while maintaining precise load alignment and secure specimen gripping.
 
-## Analyze
+## Motor Selection- Jeffrey
+
+## Motor Mount Bracket- Jeffrey
+
+## Coupler Design/Selection- Jeffrey
 
 ## Tabulating Costs
 
