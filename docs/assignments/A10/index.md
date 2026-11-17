@@ -66,3 +66,5 @@ Landyn - I continued to learn the intricacies of solidworks and how helpful cert
 
 Jeffrey- With my section I learned how to design a crosshead for a tensile tester and learned about the components that are needed for a tensile tester. I did this section quickly, so the CAD didn't have to be a last-minute duty. My section took me approximately 4 hours.
 
+CAD Models: [A10 Models.zip](https://github.com/user-attachments/files/34973834/A10.Models.zip)
+
