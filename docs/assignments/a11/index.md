@@ -10,7 +10,15 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 
 ## Coupler Design/Selection- Jeffrey
 
-## Tabulating Costs
+## Analyze and Design Frame
+
+## FEA Top Frame
+
+## FEA Vertical Components
+
+## Design Floating Bearing Mount
+
+## Bills of Materials and Labor Costs
 
 | Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
 |  :--- | :--- | :--- | :---| :--- | :---|
@@ -18,6 +26,10 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 | 2 |  |  |  |  | [Product]() |
 | 3 |  |  |  |  | [Product]() |
 | 4 |  |  |  |  | [Product]() |
+
+## Engineering Lesson
+
+## 2157
 
 
 
