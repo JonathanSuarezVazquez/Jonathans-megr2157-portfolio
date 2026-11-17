@@ -31,6 +31,15 @@ I calculated the stress in the nut(https://www.mcmaster.com/95120A592/) that was
 
 ![myimage](A10.nut.jpeg)
 
+## Crosshead Design
+
+![My Image](crossheaddesign1.png)
+
+![My Image](crossheaddesign2.png)
+
+After multiplying the calculated modulus of elasticity and bending stress for the crosshead it was decided that the material for the crosshead would be 6061-T6 Aluminum. Both the yield strength and the modulus of elasticity of the material is several times higher to what was calculated for the crosshead.
+
+
 ### Tabulating Costs- Jeffrey 
 
 | Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
