@@ -22,9 +22,9 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 
 | Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
 |  :--- | :--- | :--- | :---| :--- | :---|
-| 1 |  |  |  |  | [Product]() | 
-| 2 |  |  |  |  | [Product]() |
-| 3 |  |  |  |  | [Product]() |
+| 1 |  |  |  |  | [Product](https://www.mcmaster.com/2424K11/) | 
+| 2 |  |  |  |  | [Product](https://www.mcmaster.com/47065T791/) |
+| 3 |  |  |  |  | [Product](https://www.mcmaster.com/6627T611/) |
 | 4 |  |  |  |  | [Product]() |
 
 ## Engineering Lesson
