@@ -51,6 +51,8 @@ A rigid shaft coupling was selected because compared to flexible shaft couplings
 
 ## Engineering Lesson
 
+Jeffrey- From my sections for this assignment I learned how to select a motor based on the minimum and maximum speed, as well as the max torque. Additionally, I learned more about the components in a tensile tester, like the shaft coupler. I learned how to approximately select a shaft coupler similar to selecting a motor, based on speed and torque. The time it took to complete my sections for this assignment took me approximately 6 hours including reading and documentation.
+
 ## 2157
 
 
