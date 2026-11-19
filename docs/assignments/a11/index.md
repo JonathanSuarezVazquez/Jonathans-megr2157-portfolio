@@ -6,7 +6,7 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 
 ## Motor Selection- Jeffrey
 
-![My Image](Motorselection.png)
+![My Image](Motorselection.pn)
 
 The Nema 23- 76in-oz Maximum Holding Torque was chosen as it is several times above the max torque. Additionally, according to the speed vs torque graph the motor can withstand both the max speed and the max torque. Also, this one was selected compared to the Nema 23 73in-oz because it is half the price due to more wiring, but it is sturdier. 
 
@@ -17,7 +17,7 @@ The Nema 23- 76in-oz Maximum Holding Torque was chosen as it is several times ab
 
 ## Motor Mount Bracket- Jeffrey
 
-![My Image](motormount.png)
+![My Image](motormount.pn)
 
 After designing for the thickness of the motor mount I went to McMaster to look for a motor mount for the frame size of Nema 23, but there was none. Therefore, after further research I found some nema 23 motor mounts on Amazon sold by the [STEPPERONLINESTORE](https://www.amazon.com/stores/STEPPERONLINE/page/CC42C048-C998-462F-9C8C-189225C4412C?lp_asin=B00Q6GIO5K&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto).
 
@@ -26,7 +26,7 @@ After designing for the thickness of the motor mount I went to McMaster to look 
 
 ## Coupler Design/Selection- Jeffrey
 
-![My Image](Coupler.png)
+![My Image](Coupler.pn)
 
 A rigid shaft coupling was selected because compared to flexible shaft couplings the rigid shaft coupling can handle higher torques, the catch though is the shafts, must be aligned.
 
@@ -35,7 +35,7 @@ A rigid shaft coupling was selected because compared to flexible shaft couplings
 
 ## Analyze and Design Frame Connector- Jeffrey
 
-![My Image](frame.png)
+![My Image](frame.pn)
 
 First, I looked at corner brackets on McMaster to find one that would fit the width of the rails, I only found one with a length of 4.5in there it would cover almost the whole length of the tensile tester with 2 brackets on each long side. Afterwards I checked that it would be safe to use and it was several, several times higher than the forces.
 
