@@ -50,16 +50,38 @@ A rigid shaft coupling was selected because compared to flexible shaft couplings
 
 | Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
 |  :--- | :--- | :--- | :---| :--- | :---|
-| 1 |  |  |  |  | [Product](https://www.mcmaster.com/2424K11/) | 
-| 2 |  |  |  |  | [Product](https://www.mcmaster.com/47065T791/) |
-| 3 |  |  |  |  | [Product](https://www.mcmaster.com/6627T611/) |
-| 4 |  |  |  |  | [Product](https://www.amazon.com/STEPPERONLINE-Stepper-Economy-Mounting-ST-M2/dp/B00Q6GIO5K/ref=sr_1_5?dib=eyJ2IjoiMSJ9.iS38cgRotT5SeegZRPZilBOPG1-Ao-fGY91I_yUoH8lJ1ZQFkW4nh-8DEm9HpFokYm3X2FzScOnFb8zop1fn_IeXPxTjaFfs5oavwk8BTV4R1AGs9n_a1U51-4Y7v6C4TE7Zm5ArvQsW-i_0GnoPhPlQff8kT6QAXVX46woMEbaxZK9NwsVf6lQmMfI55YhwOhhBoJY6Lz8zZ40J-PoqwDHsHdSPacI_KxuTeuAPrCM.lIo6LBEiNI6sbf9kdVXQv882PcXcZiVX9ly28rWIKxo&dib_tag=se&keywords=nema+23+mount&qid=1795061247&sr=8-5) |
+| 1 |  2 | Set Screw shaft coupling | $13.60 | $27.20 | [Product](https://www.mcmaster.com/2424K11/) | 
+| 2 | 8 | Black Flush 90 degreee bracket for 1.5" High Rail T-Slotted framing | $23.43 | $187.44 | [Product](https://www.mcmaster.com/47065T791/) |
+| 3 | 2 | Stepper Motor | $64.79 | $129.58 | [Product](https://www.mcmaster.com/6627T611/) |
+| 4 | 3 | T-slot Framing | $264.97 | $794.91 | [Product](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
+| 5 | 2 | Alloy Steel Acme Lead Screw | $57.73 | $115.46 | [Product]() |
+| 6 | 2 | 932 Bearing Bronze Acme Flange Nut, Right Hand, 3/8"-12 Thread Size | $111.78 | $223.56 | [Product]() |
+| 7 | 1 | Multipurpose 6061 Aluminum Bar, 3" Thick x 3" Wide x 1 Foot Long (Crosshead) | $136.42 | $136.42 | [Product]() |
+
+Material Cost: $1614.57
+
+| Name | Total Hours | Rate | 
+|  :--- | :--- | :--- |
+| Jonathan Suarez | 7 | $35 |
+| Jeffrey Mendoza | 10 | $35 |
+| Landyn Sherill | 15 | $35 |
+
+Labor Cost: 
+
+Total Cost: 
 
 ## Engineering Lesson
 
 Jeffrey- From my sections for this assignment I learned how to select a motor based on the minimum and maximum speed, as well as the max torque. Additionally, I learned more about the components in a tensile tester, like the shaft coupler. I learned how to approximately select a shaft coupler similar to selecting a motor, based on speed and torque. The time it took to complete my sections for this assignment took me approximately 6 hours including reading and documentation.
 
+Jonathan- This section taught me how to calculate the costs of a project. I also learned how to make an assembly drawing with a bill of materials list. This section took me about 3 hours
+
+
 ## 2157
+
+![myimage](A11crosshead.png)
+![myimage](A11assembley.png)
+
 
 
 
