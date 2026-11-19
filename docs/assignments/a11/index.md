@@ -19,6 +19,11 @@ The Nema 23- 76in-oz Maximum Holding Torque was chosen as it is several times ab
 
 ![My Image](motormount.png)
 
+After designing for the thickness of the motor mount I went to McMaster to look for a motor mount for the frame size of Nema 23, but there was none. Therefore, after further research I found some nema 23 motor mounts on Amazon sold by the [STEPPERONLINESTORE](https://www.amazon.com/stores/STEPPERONLINE/page/CC42C048-C998-462F-9C8C-189225C4412C?lp_asin=B00Q6GIO5K&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto).
+
+<img width="679" height="756" alt="image" src="https://github.com/user-attachments/assets/c1850e39-4a7d-402b-837e-53935863996b" />
+
+
 ## Coupler Design/Selection- Jeffrey
 
 ![My Image](Coupler.png)
@@ -48,7 +53,7 @@ A rigid shaft coupling was selected because compared to flexible shaft couplings
 | 1 |  |  |  |  | [Product](https://www.mcmaster.com/2424K11/) | 
 | 2 |  |  |  |  | [Product](https://www.mcmaster.com/47065T791/) |
 | 3 |  |  |  |  | [Product](https://www.mcmaster.com/6627T611/) |
-| 4 |  |  |  |  | [Product]() |
+| 4 |  |  |  |  | [Product](https://www.amazon.com/STEPPERONLINE-Stepper-Economy-Mounting-ST-M2/dp/B00Q6GIO5K/ref=sr_1_5?dib=eyJ2IjoiMSJ9.iS38cgRotT5SeegZRPZilBOPG1-Ao-fGY91I_yUoH8lJ1ZQFkW4nh-8DEm9HpFokYm3X2FzScOnFb8zop1fn_IeXPxTjaFfs5oavwk8BTV4R1AGs9n_a1U51-4Y7v6C4TE7Zm5ArvQsW-i_0GnoPhPlQff8kT6QAXVX46woMEbaxZK9NwsVf6lQmMfI55YhwOhhBoJY6Lz8zZ40J-PoqwDHsHdSPacI_KxuTeuAPrCM.lIo6LBEiNI6sbf9kdVXQv882PcXcZiVX9ly28rWIKxo&dib_tag=se&keywords=nema+23+mount&qid=1795061247&sr=8-5) |
 
 ## Engineering Lesson
 
