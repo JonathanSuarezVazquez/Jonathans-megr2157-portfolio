@@ -89,12 +89,9 @@ Jonathan- This section taught me how to calculate the costs of a project. I also
 ### CAD
 
 [Individual parts](https://1drv.ms/f/c/3f1fcb01952d5efb/IgBbZ_eFpj1eQLZSCEd0bIP8AcsQWQcFh7Pm_f8MQ_e-BLU?e=dq3HUh)
+
 [Assembly and drawings](https://1drv.ms/f/c/3f1fcb01952d5efb/IgAyMsc5PbrDTaHPiDHUyfcsARXFC63HeprnS3U8AbTyAx8?e=aPseXD)
 
 
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
