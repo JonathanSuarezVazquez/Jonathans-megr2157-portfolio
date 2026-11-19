@@ -6,22 +6,25 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 
 ## Motor Selection- Jeffrey
 
-motormount.png
-Motorselection.png
-Coupler.png
-frame.png
+![My Image](Motorselection.png)
+
 
 <img width="1050" height="811" alt="image" src="https://github.com/user-attachments/assets/753fe89f-acc5-49d4-942c-9feb700ced29" />
 
 <img width="1007" height="763" alt="image" src="https://github.com/user-attachments/assets/44508c53-061c-4501-8c39-9b7fe3a07671" />
 
 
-
 ## Motor Mount Bracket- Jeffrey
+
+![My Image](motormount.png)
 
 ## Coupler Design/Selection- Jeffrey
 
-## Analyze and Design Frame
+![My Image](Coupler.png)
+
+## Analyze and Design Frame Connector- Jeffrey
+
+![My Image](frame.png)
 
 ## FEA Top Frame
 
