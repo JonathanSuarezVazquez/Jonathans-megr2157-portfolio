@@ -22,9 +22,15 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 
 ![My Image](Coupler.png)
 
+<img width="1050" height="811" alt="image" src="https://github.com/user-attachments/assets/79e63e66-271b-46c7-b61a-658051378901" />
+
+
 ## Analyze and Design Frame Connector- Jeffrey
 
 ![My Image](frame.png)
+
+<img width="1050" height="811" alt="image" src="https://github.com/user-attachments/assets/4d89356b-48cf-4058-958a-aaae5dda046a" />
+
 
 ## FEA Top Frame
 
