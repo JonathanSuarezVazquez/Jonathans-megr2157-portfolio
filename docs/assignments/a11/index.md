@@ -59,6 +59,8 @@ First, I looked at corner brackets on McMaster to find one that would fit the wi
 | 5 | 2 | Alloy Steel Acme Lead Screw | $57.73 | $115.46 | [Product](https://www.mcmaster.com/93410A111/) |
 | 6 | 2 | 932 Bearing Bronze Acme Flange Nut, Right Hand, 3/8"-12 Thread Size | $111.78 | $223.56 | [Product](https://www.mcmaster.com/95120A592/) |
 | 7 | 1 | Multipurpose 6061 Aluminum Bar, 3" Thick x 3" Wide x 1 Foot Long (Crosshead) | $136.42 | $136.42 | [Product](https://www.mcmaster.com/9008K62-9008K621/?s=rectangular+bar) |
+| 8 | 2 | STEPPERONLINE NEMA 23 Stepper Motor (Economy Geared Stepper Motor) Alloy Steel Mounting Bracket ST-M2 | $7.87  | $15.84 | [Product](https://www.amazon.com/STEPPERONLINE-Stepper-Economy-Mounting-ST-M2/dp/B00Q6GIO5K/ref=sr_1_5?dib=eyJ2IjoiMSJ9.iS38cgRotT5SeegZRPZilBOPG1-Ao-fGY91I_yUoH8lJ1ZQFkW4nh-8DEm9HpFokYm3X2FzScOnFb8zop1fn_IeXPxTjaFfs5oavwk8BTV4R1AGs9n_a1U51-4Y7v6C4TE7Zm5ArvQsW-i_0GnoPhPlQff8kT6QAXVX46woMEbaxZK9NwsVf6lQmMfI55YhwOhhBoJY6Lz8zZ40J-PoqwDHsHdSPacI_KxuTeuAPrCM.lIo6LBEiNI6sbf9kdVXQv882PcXcZiVX9ly28rWIKxo&dib_tag=se&keywords=nema+23+mount&qid=1795061247&sr=8-5) |
+
 
 Material Cost: $1614.57
 
