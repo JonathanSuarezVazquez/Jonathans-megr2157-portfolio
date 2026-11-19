@@ -62,7 +62,7 @@ First, I looked at corner brackets on McMaster to find one that would fit the wi
 | 8 | 2 | STEPPERONLINE NEMA 23 Stepper Motor (Economy Geared Stepper Motor) Alloy Steel Mounting Bracket ST-M2 | $7.87  | $15.84 | [Product](https://www.amazon.com/STEPPERONLINE-Stepper-Economy-Mounting-ST-M2/dp/B00Q6GIO5K/ref=sr_1_5?dib=eyJ2IjoiMSJ9.iS38cgRotT5SeegZRPZilBOPG1-Ao-fGY91I_yUoH8lJ1ZQFkW4nh-8DEm9HpFokYm3X2FzScOnFb8zop1fn_IeXPxTjaFfs5oavwk8BTV4R1AGs9n_a1U51-4Y7v6C4TE7Zm5ArvQsW-i_0GnoPhPlQff8kT6QAXVX46woMEbaxZK9NwsVf6lQmMfI55YhwOhhBoJY6Lz8zZ40J-PoqwDHsHdSPacI_KxuTeuAPrCM.lIo6LBEiNI6sbf9kdVXQv882PcXcZiVX9ly28rWIKxo&dib_tag=se&keywords=nema+23+mount&qid=1795061247&sr=8-5) |
 
 
-Material Cost: $1614.57
+Material Cost: $1630.31
 
 | Name | Total Hours | Rate | 
 |  :--- | :--- | :--- |
