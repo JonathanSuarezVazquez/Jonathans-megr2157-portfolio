@@ -1,4 +1,4 @@
-# A11 – Motor Selection
+ # A11 – Motor Selection
 
 ## Objective
 
@@ -8,6 +8,7 @@ Develop the motorized drive and structural integration for the 2 kN tensile test
 
 ![My Image](Motorselection.png)
 
+The Nema 23- 76in-oz Maximum Holding Torque was chosen as it is several times above the max torque. Additionally, according to the speed vs torque graph the motor can withstand both the max speed and the max torque. Also, this one was selected compared to the Nema 23 73in-oz because it is half the price due to more wiring, but it is sturdier. 
 
 <img width="1050" height="811" alt="image" src="https://github.com/user-attachments/assets/753fe89f-acc5-49d4-942c-9feb700ced29" />
 
