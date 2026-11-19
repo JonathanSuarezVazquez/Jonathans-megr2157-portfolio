@@ -55,7 +55,7 @@ First, I looked at corner brackets on McMaster to find one that would fit the wi
 | 1 |  2 | Set Screw shaft coupling | $13.60 | $27.20 | [Product](https://www.mcmaster.com/2424K11/) | 
 | 2 | 8 | Black Flush 90 degreee bracket for 1.5" High Rail T-Slotted framing | $23.43 | $187.44 | [Product](https://www.mcmaster.com/47065T791/) |
 | 3 | 2 | Stepper Motor | $64.79 | $129.58 | [Product](https://www.mcmaster.com/6627T611/) |
-| 4 | 3 | T-slot Framing | $264.97 | $794.91 | [Product](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
+| 4 | 1 | T-slot Framing | $264.97 | $264.97 | [Product](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
 | 5 | 2 | Alloy Steel Acme Lead Screw | $57.73 | $115.46 | [Product](https://www.mcmaster.com/93410A111/) |
 | 6 | 2 | 932 Bearing Bronze Acme Flange Nut, Right Hand, 3/8"-12 Thread Size | $111.78 | $223.56 | [Product](https://www.mcmaster.com/95120A592/) |
 | 7 | 1 | Multipurpose 6061 Aluminum Bar, 3" Thick x 3" Wide x 1 Foot Long (Crosshead) | $136.42 | $136.42 | [Product](https://www.mcmaster.com/9008K62-9008K621/?s=rectangular+bar) |
