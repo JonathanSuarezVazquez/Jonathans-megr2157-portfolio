@@ -37,6 +37,8 @@ A rigid shaft coupling was selected because compared to flexible shaft couplings
 
 ![My Image](frame.png)
 
+First, I looked at corner brackets on McMaster to find one that would fit the width of the rails, I only found one with a length of 4.5in there it would cover almost the whole length of the tensile tester with 2 brackets on each long side. Afterwards I checked that it would be safe to use and it was several, several times higher than the forces.
+
 <img width="1050" height="811" alt="image" src="https://github.com/user-attachments/assets/4d89356b-48cf-4058-958a-aaae5dda046a" />
 
 
